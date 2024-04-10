@@ -34,6 +34,7 @@
 
 
 🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🖤🧡💛💚
+<div align="left" style="margin-bottom: 10px;">
 
 # 一键部署
 ## windows用户
@@ -41,7 +42,7 @@
 ### [夸克网盘下载]()
 ### [GooleDrive]()
 ## Ubuntu用户
-如果您是Ubuntu用户,请在网盘上下载我们的代码与模型，以及打包好的conda环境，只需要在conda中解压我们的环境，之后启动Starter_Linux.bat，值周便可以访问之后便可以访问\[localhost](http:/127.0.0.1:8087)[http:/127.0.0.1:8087](http:/127.0.0.1:8087)进行AI创作
+如果您是Ubuntu用户,请在网盘上下载我们的代码与模型，以及打包好的conda环境，只需要在conda中解压我们的环境，之后启动Starter_Linux.bat，值周便可以访问之后便可以访问[localhost](http:/127.0.0.1:8087)(http:/127.0.0.1:8087)进行AI创作
 ### [夸克网盘下载]()
 ### [GooleDrive]()
 ## 项目优势
@@ -75,18 +76,23 @@
 3.自定义视频比例：这项功能允许用户根据需要设置视频的宽高比。这在不同的播放平台或创作风格中非常重要。用户可以选择常见的视频比例如16:9、4:3，或者更具创意的自定义比例，以符合其特定的展示或艺术需求。
 <div align="left" style="margin-bottom: 10px;">
 <img src="./image/3.png" alt="logo"/>
+
 #### 2.2、图片转视频
 1.上传个性化参考图像：用户能够上传自己选择的图片，作为生成新图像或视频的灵感来源。这使得创作过程更加个性化，同时确保结果符合用户的特定视觉偏好或风格需求。
 <div align="left" style="margin-bottom: 10px;">
 <img src="./image/4.png" alt="logo"/>
 
+
 2.调节帧率：用户可以根据需要调整视频的帧率，这直接影响到视频播放的流畅性和视觉感受。不同的帧率设置可以用于适应不同的展示需求和创意效果。
+
 
 3.调整动作强度：这允许用户修改视频内动作或动画的活力和速度，从而达到所需的视觉和情感效果，例如创造更加生动或更加柔和的场景。
 
 <div align="left" style="margin-bottom: 10px;">
 <img src="./image/5.png" alt="logo"/>
+
 #### 2.3、视频转视频
+
 1.视频上传：这一步骤允许用户上传他们选择的视频文件。该文件可以包含各种元素，如特定的视觉场景、人物、动作或其他任何内容。上传的视频将作为转换过程的基础，确保新生成的视频内容基于用户提供的原始素材。
 
 <div align="left" style="margin-bottom: 10px;">
@@ -116,10 +122,13 @@
 > 加入AI交流社区获取更多内容
 
 ## [加入交流社区](https://qm.qq.com/q/f8bTW53g8S)
+### QQ
+<img src="./image/11.png" width="400px" alt="QQ" style="display: inline-block" />
 
-<img src="./image/qq.jpg" width="400px" alt="QQ" style="display: inline-block" />
+### 微信
+<img src="./image/weixin.png" width="400px" alt="QQ" style="display: inline-block" />
 
 ## 官方网站
-### [Seeming AI](http://www.seeming.tech/)[http://www.seeming.tech/](http://www.seeming.tech/)
+### [Seeming AI](http://www.seeming.tech/) （[http://www.seeming.tech/](http://www.seeming.tech/)）
 ## 联系我们
 seemingai@gmail.com
