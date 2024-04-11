@@ -39,12 +39,12 @@
 # 一键部署
 ## windows用户
 如果您是windows用户，可以直接在Nvidia GPU上运行，只需直接下载解压文件，运行我们的Starter_Winodows.sh文件，之后便可以访问\[localhost](http:/127.0.0.1:8087)[http:/127.0.0.1:8087](http:/127.0.0.1:8087)进行AI创作
-### [夸克网盘下载]()
-### [GooleDrive]()
+### [夸克网盘下载](https://pan.quark.cn/s/0722718996ae)
+### [GooleDrive](https://drive.google.com/file/d/1Vu-Ya9JnAwe4TLXTEartLhIbC-ZTkjFr/view?usp=drive_link)
 ## Ubuntu用户
 如果您是Ubuntu用户,请在网盘上下载我们的代码与模型，以及打包好的conda环境，只需要在conda中解压我们的环境，之后启动Starter_Linux.bat，值周便可以访问之后便可以访问[localhost](http:/127.0.0.1:8087)(http:/127.0.0.1:8087)进行AI创作
-### [夸克网盘下载]()
-### [GooleDrive]()
+### [夸克网盘下载](https://pan.quark.cn/s/ed572994adc6)
+### [GooleDrive](https://drive.google.com/file/d/1ovuTB1pvsc_t7dEw_u9GMiD_uD0QnomK/view?usp=drive_link)
 ## 项目优势
 
 ### 1、无需变成基础，轻松上手搭建
