@@ -36,6 +36,10 @@
 🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🖤🧡💛💚
 <div align="left" style="margin-bottom: 10px;">
 
+# 项目需求
+
+需要Nvidia GPU内存>24G
+
 # 一键部署
 ## windows用户
 如果您是windows用户，可以直接在Nvidia GPU上运行，只需直接下载解压文件，运行我们的Starter_Winodows.sh文件，之后便可以访问\[localhost](http:/127.0.0.1:8087)[http:/127.0.0.1:8087](http:/127.0.0.1:8087)进行AI创作
