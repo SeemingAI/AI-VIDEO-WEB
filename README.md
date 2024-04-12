@@ -21,7 +21,7 @@
          <a href="#合作交流">👨‍👩‍👧‍👦合作交流</a>
         </td>
         <td>
-         <a href="https://nanjiren.online" target="_blank">🌏官方网站</a>
+         <a href="http://www.seeming.tech/" target="_blank">🌏官方网站</a>
         </td>        
         <td>
          <a href="#交流">💬联系我们</a>
@@ -51,7 +51,7 @@
 ### [GooleDrive](https://drive.google.com/file/d/1ovuTB1pvsc_t7dEw_u9GMiD_uD0QnomK/view?usp=drive_link)
 ## 项目优势
 
-### 1、无需变成基础，轻松上手搭建
+### 1、无需编程基础，轻松上手搭建
 
 快速：项目提供一键部署脚本，采购服务器后只需执行一键部署脚本即可搭建，整个过程最快不超过3分钟。
 
