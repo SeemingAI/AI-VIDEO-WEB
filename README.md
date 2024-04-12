@@ -2,7 +2,7 @@
 <div align="center" style="margin-bottom: 10px;">
 <img src="./image/logo.png" alt="logo"/>
   
-<h1 align="center">Seeming AI  Web</h1>
+<h1 align="center">AI VIDEO-WEB</h1>
 
 <div align="center">更新时间：2024-4-9</div>
 
