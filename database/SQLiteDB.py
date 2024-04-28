@@ -1,7 +1,7 @@
 import aiosqlite
 import sqlite3
-from utils.small_tools.list_mut_url import list_to_str
-from utils.small_tools.time_query_conversion import time_query_conversion
+from core.small_tools.list_mut_url import list_to_str
+from core.small_tools.time_query_conversion import time_query_conversion
 
 
 class SQLiteDB(object):

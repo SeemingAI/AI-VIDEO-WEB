@@ -1,7 +1,7 @@
 from web_fuction.client_fuction.Model_thread_pool import run_model
-from moudel_fuction.moudel_reference_fuction.image_video.image_to_video_fuction import image2video_model
-from moudel_fuction.moudel_reference_fuction.text_image.text_to_image_fuction import text_to_image_moudel
-from moudel_fuction.moudel_reference_fuction.video_video.video_to_video import video2video_moudel
+from moudel_fuction.moudel_reference_fuction.image_video import *
+from moudel_fuction.moudel_reference_fuction.text_image import *
+from moudel_fuction.moudel_reference_fuction.video_video import *
 async def moudel_selection_startup(task_type,inference_data,requests_data):
     """
     input:

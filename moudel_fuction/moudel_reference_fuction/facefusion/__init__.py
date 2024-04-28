@@ -1,3 +1,0 @@
-from moudel_fuction.moudel_reference_fuction.facefusion.model import globals as cfg
-import moudel_fuction.moudel_reference_fuction.facefusion.model as facefusion
-from moudel_fuction.moudel_reference_fuction.facefusion import model as model

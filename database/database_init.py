@@ -93,3 +93,4 @@ async def database_init():
             await cursor.close()
         if 'conn' in locals():
             await conn.close()
+asyncio.run(database_init())
