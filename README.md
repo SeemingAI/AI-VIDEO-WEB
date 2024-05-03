@@ -39,7 +39,9 @@
 <div align="left" style="margin-bottom: 10px;">
 
 # 项目简介
-本项目为AIGC网站 web UI解决方案框架，支持您使用自己的模型来构建生成式模型的AI网站
+本项目为AIGC网站 web UI解决方案框架，支持您使用自己的模型来构建生成式模型的AI网站 
+
+另外本项目另附一键部署版本[Windows](https://pan.quark.cn/s/d416f02c7aef)请下载一下文件到同一个文件夹
 
 # 配置操作
 
